@@ -46,7 +46,7 @@
                     <target>1.8</target>
                 </configuration>
             </plugin>
-            <!-- Added Surefire Plugin configuration to execute tests -->
+            <!-- Added Surefire Plugin configuration to execute testss -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
